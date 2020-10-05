@@ -1,0 +1,224 @@
+header
+		{
+		margin-top: 5px;
+		margin-bottom: none;
+		font-family: 'Squada One';
+		font-size: 20pt;
+		}
+
+header, footer
+
+		{
+		background-color: black;
+		padding-top: 0.5em;
+		padding-bottom: 0.5em;
+		text-align: center;
+		max-width: 960px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+body
+		{
+		background-color: #f2f2f2;
+		width: auto;
+		margin: auto;
+		font-family: 'Metrophobic';
+		text-align: justify;
+		}
+
+h2
+		{
+		margin-top: 0;
+		margin-bottom: 0;
+		}
+
+hr
+		{
+		max-width: 960px;
+		}
+
+nav
+		{
+		text-align: center;
+		color: black;
+		word-spacing: 50px;
+		}
+
+article
+		{
+		width: 960px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+iframe
+		{
+		max-width: 960px;
+		}
+
+table
+		{
+		width: 20%;
+		background: #f2f2f2;
+		border: 1px;
+		border-collapse: collapse;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+td, th
+		{
+		border: 1px solid #333333;
+		text-align: left;
+		}
+
+footer
+		{
+		font-size: 75%;
+		color: white;
+		margin-bottom: 5px;
+		}
+
+img
+		{
+		display: block;
+		width: 960px;
+		height: 600px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+#main
+		{
+		width: auto;
+		overflow: hidden;
+		}
+
+#ThankYou
+		{
+		text-align: center;
+		}
+
+#SocialMedia
+		{
+		display: flex;
+		justify-content:space-between;
+		margin-left: 300px;
+		margin-right: 300px;
+		margin-top: 50px;
+		}
+
+#SubmitForm
+		{
+		text-align: center;
+		}
+
+.imgNZ
+		{
+		display: block;
+		margin: 0 auto;
+		width: auto;
+		height: 565px;
+		border-style: none;
+		}
+
+.Facebook
+		{
+		width: auto;
+		height: 40px;
+		vertical-align: center;
+		display: inline-block;
+		}
+
+.Instagram
+		{
+		width: auto;
+		height: 40px;
+		vertical-align: center;
+		display: inline-block;
+		}
+
+.YouTube
+		{
+		width: auto;
+		height: 40px;
+		vertical-align: center;
+		display: inline-block;
+		}
+
+.TripAdvisor
+		{
+		width: auto;
+		height: 40px;
+		vertical-align: center;
+		display: right;
+		}
+
+.Home:link
+		{
+		color: white;
+		text-decoration: none;
+		}
+
+.Home:visited
+		{
+		color: white;
+		}
+
+.Home:hover
+		{
+		color: white;
+		}
+
+.Home:active
+		{
+		color: white;
+		}
+
+.Auckland:link, .Wellington:link, .Christchurch:link, .Hamilton:link
+		{
+		color: black;
+		font-weight: bold;
+		text-decoration: none;
+		}
+
+.Auckland:visited, .Wellington:visited, .Christchurch:visited, .Hamilton:visited
+		{
+		color: black;
+		font-weight: bold;
+		}
+
+.Auckland:hover, .Wellington:hover, .Christchurch:hover, .Hamilton:hover
+		{
+		color: gray;
+		font-weight: bold;
+		text-decoration: underline;
+		}
+
+.Auckland:active, .Wellington:active, .Christchurch:active, .Hamilton:active
+		{
+		color: black;
+		font-weight: bold;
+		}
+
+.Top:link
+		{
+		color: white;
+		text-decoration: underlined;
+		}
+
+.Top:visited
+		{
+		color: white;
+		}
+
+.Top:hover
+		{
+		color: white;
+		}
+
+.Top:active
+		{
+		color: white;
+		}
